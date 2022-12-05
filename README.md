@@ -28,4 +28,4 @@ https://deepnote.com/@yulya-levchenko
 .iksweb:hover{background:#354251;color:#ffffff;border:2px solid #354251;transition: all 0.2s ease;}
 </style>
 
-<a class="iksweb" href="https://iksweb.ru/tools/cnopka/"   title="Мяу">Мяу</a>
+<a class="iksweb" href="kirillandulyasdgfgdsgags.github.io"   title="Мяу">Мяу</a>
