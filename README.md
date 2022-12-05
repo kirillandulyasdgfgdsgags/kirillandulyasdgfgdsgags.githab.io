@@ -34,8 +34,8 @@ https://deepnote.com/@yulya-levchenko
 ```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|переводной| B(11 класс)
+B --> C{ЕГЭ}
+C -->|хорошо| D[вуз]
+C -->|плохо| E[армия]
 ```
