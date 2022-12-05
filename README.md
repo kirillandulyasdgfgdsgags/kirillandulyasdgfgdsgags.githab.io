@@ -31,9 +31,8 @@ https://deepnote.com/@yulya-levchenko
 
 <a class="iksweb" href="kirillandulyasdgfgdsgags.github.io"   title="Мяу">Мяу</a>
 
-flowchart LR
 
-A[Hard] -->|Text| B(Round)
+```A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+C -->|Two| E[Result 2]```
