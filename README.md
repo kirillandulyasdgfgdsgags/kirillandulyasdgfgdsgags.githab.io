@@ -31,7 +31,8 @@ https://deepnote.com/@yulya-levchenko
 
 <a class="iksweb" href="kirillandulyasdgfgdsgags.github.io"   title="Мяу">Мяу</a>
 
-```flowchart LR
+```mermaid
+flowchart LR
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
