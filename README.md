@@ -12,11 +12,11 @@ SELECT * FROM users WHERE name = "Олег" (найти колво записе�
 
 САЙТ loki395.wordpress.com
 
-$$ W_c=\frac{CU^2}{2} $$
+ $$ W_c=\frac{CU^2}{2} $$
 
-$$ V=\sqrt{\frac{GM}{R}} $$
+ $$ V=\sqrt{\frac{GM}{R}} $$
 
-$$ q=CU $$
+ $$ q=CU $$
 
 https://deepnote.com/@yulya-levchenko
 
