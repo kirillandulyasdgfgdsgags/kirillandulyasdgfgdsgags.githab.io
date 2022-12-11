@@ -31,4 +31,18 @@ https://deepnote.com/@yulya-levchenko
 
 <a class="iksweb" href="kirillandulyasdgfgdsgags.github.io"   title="Мяу">Мяу</a>
 
+```mermaid
+flowchart LR
+
+A[10 класс] -->|переводной| B(11 класс)
+B --> C{ЕГЭ}
+C --> D{мальчик}
+C --> E{девочка}
+C --> F{не сдал}
+D --> |сдал хорошо| G{вуз}
+D --> |сдал плохо| H{армия}
+E --> |сдала хорошо| G{вуз}
+E --> |сдала плохо|I{приключения}
+F --> |подготовиться еще раз|C{ЕГЭ}
+```
 
