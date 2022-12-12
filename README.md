@@ -1,50 +1,6 @@
 # kirillandulyasdgfgdsgags.github.io
 
-SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' (колво таблиц)
-
-SELECT * FROM users (вывод всех пьзователей)
-
-SELECT * FROM grades (вывод всех оценок)
-
-SELECT * FROM users JOIN grades (вывод пользователей и их оценок)
-
-SELECT * FROM users WHERE name = "Олег" (найти колво записей с именем Олег)
-
-САЙТ loki395.wordpress.com
-
- $$ W_c=\frac{CU^2}{2} $$
-
- $$ V=\sqrt{\frac{GM}{R}} $$
-
- $$ q=CU $$
-
-https://deepnote.com/@yulya-levchenko
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP_JmE2A=/?moveToViewport=-1178,-362,1926,972&embedId=767252171146" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-
-<style>
-/* Стили кнопки */
-.iksweb{display: inline-block;cursor: pointer; font-size:24px;text-decoration:none;padding:10px 20px; color:#9460bf;background:#cc90d6;border-radius:0px;border:2px solid #e060da;}
-.iksweb:hover{background:#354251;color:#ffffff;border:2px solid #354251;transition: all 0.2s ease;}
-</style>
-
-<a class="iksweb" href="kirillandulyasdgfgdsgags.github.io"   title="Мяу">Мяу</a>
-
-```mermaid
-flowchart LR
-
-A[10 класс] -->|переводной| B(11 класс)
-B --> C{ЕГЭ}
-C --> D{мальчик}
-C --> E{девочка}
-C --> F{не сдал}
-D --> |сдал хорошо| G{вуз}
-D --> |сдал плохо| H{армия}
-E --> |сдала хорошо| G{вуз}
-E --> |сдала плохо|I{приключения}
-F --> |подготовиться еще раз|C{ЕГЭ}
-```
+![image](https://user-images.githubusercontent.com/114376682/206955313-48367036-7a2a-4985-b9a4-4eac59438464.png)
 
 <!--Dayspedia.com widget--><div class="DPAC" cityid="5720" lang="ru" id="dayspedia_widget_50fdc8d33f05ae20" host="https://dayspedia.com" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-12.png&quot;);">
 	<style media="screen" id="DPACstyles">
@@ -111,3 +67,50 @@ F --> |подготовиться еще раз|C{ЕГЭ}
 	</script>
 <!--/DPAC-->
 </div><!--Dayspedia.com widget ENDS-->
+
+
+SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' (колво таблиц)
+
+SELECT * FROM users (вывод всех пьзователей)
+
+SELECT * FROM grades (вывод всех оценок)
+
+SELECT * FROM users JOIN grades (вывод пользователей и их оценок)
+
+SELECT * FROM users WHERE name = "Олег" (найти колво записей с именем Олег)
+
+САЙТ loki395.wordpress.com
+
+ $$ W_c=\frac{CU^2}{2} $$
+
+ $$ V=\sqrt{\frac{GM}{R}} $$
+
+ $$ q=CU $$
+
+https://deepnote.com/@yulya-levchenko
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP_JmE2A=/?moveToViewport=-1178,-362,1926,972&embedId=767252171146" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+<style>
+/* Стили кнопки */
+.iksweb{display: inline-block;cursor: pointer; font-size:24px;text-decoration:none;padding:10px 20px; color:#9460bf;background:#cc90d6;border-radius:0px;border:2px solid #e060da;}
+.iksweb:hover{background:#354251;color:#ffffff;border:2px solid #354251;transition: all 0.2s ease;}
+</style>
+
+<a class="iksweb" href="kirillandulyasdgfgdsgags.github.io"   title="Мяу">Мяу</a>
+
+```mermaid
+flowchart LR
+
+A[10 класс] -->|переводной| B(11 класс)
+B --> C{ЕГЭ}
+C --> D{мальчик}
+C --> E{девочка}
+C --> F{не сдал}
+D --> |сдал хорошо| G{вуз}
+D --> |сдал плохо| H{армия}
+E --> |сдала хорошо| G{вуз}
+E --> |сдала плохо|I{приключения}
+F --> |подготовиться еще раз|C{ЕГЭ}
+```
