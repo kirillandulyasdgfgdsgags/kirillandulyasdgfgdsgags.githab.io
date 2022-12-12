@@ -68,6 +68,7 @@
 <!--/DPAC-->
 </div><!--Dayspedia.com widget ENDS-->
 
+https://tilda.cc/page/?pageid=32540043
 
 SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' (колво таблиц)
 
