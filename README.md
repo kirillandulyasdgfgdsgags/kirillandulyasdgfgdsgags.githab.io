@@ -68,6 +68,7 @@
 <!--/DPAC-->
 </div><!--Dayspedia.com widget ENDS-->
 
+
 <style>
 /* Стили кнопки */
 .iksweb{display: inline-block;cursor: pointer; font-size:23px;text-decoration:none;padding:13px 42px; color:#2381c4;background:#b1d7f2;border-radius:19px;border:2px solid #248ad4;}
@@ -75,6 +76,7 @@
 </style>
 
 <a class="iksweb" href="https://tilda.cc/page/?pageid=32540043"   title="Подготовка к ЕГЭ">Подготовка к ЕГЭ</a>
+
 
 SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' (колво таблиц)
 
